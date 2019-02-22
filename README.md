@@ -1,5 +1,4 @@
-# Protactor framework
-
+# Protractor framework
 * node-js: _cross-platform that executed javascript code_
 * protactor: _end-to-end testing framework for angularJS apps (SPAs)_
 * jasmine: _BDD framework_
@@ -62,3 +61,4 @@ https://www.youtube.com/watch?v=_JpjoenD5VA
 More videos
 ---------
 https://www.youtube.com/watch?v=XgmUkCISabc
+Source: https://www.youtube.com/playlist?list=PL6flErFppaj0H-t1uXur_vX4zQnstKUyw
