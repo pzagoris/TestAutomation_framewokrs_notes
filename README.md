@@ -1,11 +1,8 @@
 # Protactor framework
 
-* node-js
-cross-platform that executed javascript code
-* protactor
-end-to-end testing framework for angularJS apps (spa)
-*jasmine
-BDD framework
+* node-js: _cross-platform that executed javascript code_
+* protactor: _end-to-end testing framework for angularJS apps (SPAs)_
+* jasmine: _BDD framework_
 
 
 installation - steps
@@ -50,11 +47,13 @@ https://github.com/angular/protractor/blob/master/docs/browser-setup.md
 
 
 headless mode
-
+----------
 Need to configure the config.js file
-	- chrome 60 and above
-	- fireofox 55 and above
+	* chrome version 60 and above
+	* fireofox version 55 and above
 
+More info
+https://github.com/angular/protractor/blob/master/docs/browser-setup.md
 
 Database connection 
 ---------
