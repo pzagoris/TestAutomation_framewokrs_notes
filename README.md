@@ -1,13 +1,11 @@
 # Protactor framework
 
-node-js
-	cross-platform that executed javascript code
-
-protactor
-	end-to-end testing framework for angularJS apps (spa)
-
-jasmine
-	BDD framework
+* node-js
+cross-platform that executed javascript code
+* protactor
+end-to-end testing framework for angularJS apps (spa)
+*jasmine
+BDD framework
 
 
 installation - steps
@@ -37,8 +35,8 @@ protactor config.js
 Reporting
 ---------
 for reporting: 
-	- install: protactor-beautiful-reporter
-	- add to the config.js file
+	* install: protactor-beautiful-reporter
+	* add to the config.js file
 
 https://www.npmjs.com/package/protractor-beautiful-reporter
 
