@@ -13,9 +13,9 @@ jasmine
 installation - steps
 ---------------------
 
-*install NodeJs
-*Install protactor
-*install plugin for IDE
+* Install NodeJs
+* Install protactor
+* install plugin for IDE
 
 	 
 
